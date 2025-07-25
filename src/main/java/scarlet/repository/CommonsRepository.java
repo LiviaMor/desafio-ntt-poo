@@ -9,7 +9,6 @@ import scarlet.model.Money;
 import scarlet.model.MoneyAudit;
 
 import java.time.OffsetDateTime;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 import java.util.stream.Stream;
