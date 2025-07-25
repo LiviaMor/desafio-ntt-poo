@@ -1,7 +1,6 @@
 plugins {
     id("java")
 }
-
 group = "scarlet"
 version = "1.0-SNAPSHOT"
 
